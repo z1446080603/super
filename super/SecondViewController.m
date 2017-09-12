@@ -1,28 +1,24 @@
 //
-//  ViewController.m
+//  SecondViewController.m
 //  super
 //
 //  Created by 优学 on 17/9/12.
 //  Copyright © 2017年 优学. All rights reserved.
 //
 
-#import "ViewController.h"
+#import "SecondViewController.h"
 
-@interface ViewController ()
+@interface SecondViewController ()
 
 @end
 
-@implementation ViewController
+@implementation SecondViewController
 
 - (void)viewDidLoad {
     [super viewDidLoad];
-   
-    NSLog(@"123");
     
-    NSLog(@"456");
+    NSLog(@"6666");
 }
-
-
 
 
 
